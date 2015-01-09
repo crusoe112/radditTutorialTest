@@ -46,4 +46,6 @@ end
 
 # Needed for devise (User Sign-in)
 gem 'devise'
+# Needed for bootstrap (front-end)
+gem 'bootstrap-sass'
 
